@@ -11,6 +11,7 @@ Setting up Google Cloud Storage to serve static files can be a pain in the behin
 - [ ] Use Google PubSub to automatically refresh cache
 - [ ] Cache 404s to prevent hitting GCS with useless requests
 - [ ] Make caching directory configurable
+- [ ] Add SSL support
 
 ### How it works
 
