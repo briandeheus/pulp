@@ -7,6 +7,7 @@ File Caching Proxy for files on Google Cloud Storage
 Setting up Google Cloud Storage to serve static files can be a pain in the behind. Pulp should make this a bit easier.
 
 ### TODO
+- [ ] Add tests...
 - [ ] Implement `PULP_TOKEN` support
 - [ ] Use Google PubSub to automatically refresh cache
 - [ ] Cache 404s to prevent hitting GCS with useless requests
